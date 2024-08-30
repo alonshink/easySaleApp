@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">easySaleApp</string>
+    <string name="user_avatar">User Avatar</string>
+    <string name="edit">edit</string>
+</resources>
